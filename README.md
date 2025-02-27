@@ -1,9 +1,6 @@
 # Multi User Todo Application using Django
 ![image](https://github.com/user-attachments/assets/dd914a0e-c9d5-4d90-aa0f-e86b0b451929)
 
-## Project Image
-
-![Project Image](path/to/image.png) <!-- Replace with actual image path or URL -->
 
 ## Description
 This project is a multi-user todo application built using Django. It allows users to create, manage, and track their tasks in a collaborative environment.
