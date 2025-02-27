@@ -16,7 +16,7 @@ This project is a multi-user todo application built using Django. It allows user
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Ayushsav/Todo_app_using_django.git
+   git clone https://github.com/abdulmoizniazi/Todo-App-Django/
    ```
 2. Navigate to the project directory:
    ```sh
